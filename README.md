@@ -9,8 +9,8 @@ Also, each clip can output multiple person, which are identified with its pID (p
 The following downloaded dataset includes resulting outputs from IMUTube pipelin:
 1. 3D motion estimation for each pID (bvh file) ([BVH file format info and renderers](http://www.cs.man.ac.uk/~toby/bvh/))
 2. Estimated frame numbers in video for each pID (python 3.X pickle file) 
-...Remember that each clips are 2 minutes length segmentations from original 10 minutes video. Make sure to count from its correct starting time.
-...The pickle file is dictionary with pID as key and frame number list as item.
+Remember that each clips are 2 minutes length segmentations from original 10 minutes video. Make sure to count from its correct starting time.
+The pickle file is dictionary with pID as key and frame number list as item.
 3. Accelerometer and Gyroscope data for each sensor location for each pID (npz file)
 [Download]()
 
