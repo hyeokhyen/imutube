@@ -12,6 +12,7 @@ The following downloaded dataset includes resulting outputs from IMUTube pipelin
 Remember that each clips are 2 minutes length segmentations from original 10 minutes video. Make sure to count from its correct starting time.
 The pickle file is dictionary with pID as key and frame number list as item.
 3. Accelerometer and Gyroscope data for each sensor location for each pID (npz file)
+
 [Download]()
 
 ### Complex activities
