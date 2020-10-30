@@ -24,8 +24,11 @@ The pickle file is dictionary with pID as key and frame number list as item. ({p
 [Download](https://www.dropbox.com/s/orufwrnlncezbh1/locomotion.tar.gz?dl=0)
 
 ### Complex activities
+The complex activity classes include 'cycling', 'folding_laundry', 'ironing', 'rope_jumping', 'soccer', 'vacuum_cleaning'.\
 The complex activity video sources are from multiple video benchmark datasets (Please, refer the citations in paper).\
-Each sample directory name is {benchmark_dataset_source}\_{activity_class}\_{YouTube_video_ID}\_{start_timestep}\_{end_timestep}. Each information comes from original benchmark dataset.\
+For the benchmark dataset that provides link to Youtube and the activity segment (ActivityNet or Kinetics), each sample directory name is {benchmark_dataset_source}\_{activity_class_from_bechmark_dataset}\_{YouTube_video_ID}\_{start_timestep}\_{end_timestep}.\
+If the benchmark dataset provides video samples directly (hmdb51, mpiim, ucf101, and etc.), each sample directory name is {benchmark_dataset_source}\_{activity_class_from_bechmark_dataset}\_{video_ID_from_benchmark_dataset}.
+Please, refer to each benchmark dataset for the details. Each information comes from original benchmark dataset.\
 The following downloaded dataset includes the same content as explained in locomotion activity.
 
 [Download]()
