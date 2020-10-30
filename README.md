@@ -19,7 +19,8 @@ Before extracting virtual IMU data, you can freely change the scale of each bone
 2. Estimated frame numbers in video for each pID (python 3.X pickle file) \
 Remember that each clips are 2 minutes length segmentations from original 10 minutes video. Make sure to count from its correct starting time.\
 The pickle file is dictionary with pID as key and frame number list as item. ({pID:[0,1,2,...]})
-3. Accelerometer and Gyroscope data for each sensor location for each pID ([npz file](https://numpy.org/doc/stable/reference/generated/numpy.load.html))
+3. Accelerometer and Gyroscope data for each sensor location for each pID ([npz file](https://numpy.org/doc/stable/reference/generated/numpy.load.html))\
+The npz file includes the numpy array of sensor stream for each sensor location ({sensor_name:np.array}).
 
 [Download](https://www.dropbox.com/s/orufwrnlncezbh1/locomotion.tar.gz?dl=0)
 
@@ -29,6 +30,7 @@ The complex activity video sources are from multiple video benchmark datasets (P
 For the benchmark dataset that provides link to Youtube and the activity segment (ActivityNet or Kinetics), each sample directory name is {benchmark_dataset_source}\_{activity_class_from_bechmark_dataset}\_{YouTube_video_ID}\_{start_timestep}\_{end_timestep}.\
 If the benchmark dataset provides video samples directly (hmdb51, mpiim, ucf101, and etc.), each sample directory name is {benchmark_dataset_source}\_{activity_class_from_bechmark_dataset}\_{video_ID_from_benchmark_dataset}.
 Please, refer to each benchmark dataset for the details. Each information comes from original benchmark dataset.\
-The following downloaded dataset includes the same content as explained in locomotion activity.
+The following downloaded dataset includes the same content as explained in locomotion activity.\
+Additionally, the dataset includes the virtual IMU data for [Pamap2](https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring) dataset and [RealWorld (HAR)](https://sensor.informatik.uni-mannheim.de/#dataset_realworld).
 
 [Download]()
