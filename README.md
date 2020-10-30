@@ -8,6 +8,7 @@ DOI:https://doi.org/10.1145/3411841
 ### Locomotion activities
 The video sources are from [RealWorld (HAR)](https://sensor.informatik.uni-mannheim.de/#dataset_realworld), which include 15 Subjects and 8 activity classes.\
 We segmented each downloaded video into 2-minutes clips, and then IMUTube pipeline is run on each clip. The videos are commonly 10 minutes long, so that around 5 clips exist for each activity video. (Please check the details from the original dataset page.)\
+Each sample directory name is {subject_ID}\_{activity_class}\_{clip_number}.\
 Also, each clip can output multiple person, which are identified with its pID (person ID), even when a single person exists in the video. The IMUTube pipeline considers the detected person in the next frame is a new person if SORT tracking algorithm fails to track the person, and assigns a new ID.\
 The following downloaded dataset includes resulting outputs from IMUTube pipelin:
 1. 3D motion estimation for each pID ([bvh file](http://www.cs.man.ac.uk/~toby/bvh/))\
@@ -19,11 +20,11 @@ Remember that each clips are 2 minutes length segmentations from original 10 min
 The pickle file is dictionary with pID as key and frame number list as item. ({pID:[0,1,2,...]})
 3. Accelerometer and Gyroscope data for each sensor location for each pID ([npz file](https://numpy.org/doc/stable/reference/generated/numpy.load.html))
 
-[Download]()
+[Download](https://www.dropbox.com/s/orufwrnlncezbh1/locomotion.tar.gz?dl=0)
 
 ### Complex activities
 The complex activity video sources are from multiple video benchmark datasets (Please, refer the citations in paper).\
-Each samples directory name includes {benchmark_dataset_source}\_{activity_class}\_{YouTube_video_ID}\_{start_timestep}\_{end_timestep}. Each information comes from original benchmark dataset.\
+Each sample directory name is {benchmark_dataset_source}\_{activity_class}\_{YouTube_video_ID}\_{start_timestep}\_{end_timestep}. Each information comes from original benchmark dataset.\
 The following downloaded dataset includes the same content as explained in locomotion activity.
 
 [Download]()
