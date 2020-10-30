@@ -4,7 +4,7 @@ IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Hu
 Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 3, Article 87 (September 2020), 29 pages. \
 DOI:https://doi.org/10.1145/3411841
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZN41C_fOdmk/1.jpg)](https://www.youtube.com/watch?v=ZN41C_fOdmk)
 
 ## Dataset
 ### Locomotion activities
