@@ -10,6 +10,7 @@ The video sources are from [RealWorld (HAR)](https://sensor.informatik.uni-mannh
 We segmented each downloaded video into 2-minutes clips, and then IMUTube pipeline is run on each clip. The videos are commonly 10 minutes long, so that around 5 clips exist for each activity video. (Please check the details from the original dataset page.)\
 Each sample directory name is {subject_ID}\_{activity_class}\_{clip_number}.\
 Also, each clip can output multiple person, which are identified with its pID (person ID), even when a single person exists in the video. The IMUTube pipeline considers the detected person in the next frame is a new person if SORT tracking algorithm fails to track the person, and assigns a new ID.\
+There are also few video clip samples that was failed to generate virtual IMU samples.\
 The following downloaded dataset includes resulting outputs from IMUTube pipelin:
 1. 3D motion estimation for each pID ([bvh file](http://www.cs.man.ac.uk/~toby/bvh/))\
 If you want to get 3D pose estimation without global motion estimation, set HIP translation and rotation to zeros. \
