@@ -4,6 +4,11 @@ IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Hu
 Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 3, Article 87 (September 2020), 29 pages. \
 DOI:https://doi.org/10.1145/3411841
 
+Hyeokhyen Kwon, Bingyao Wang, Gregory D. Abowd, and Thomas Plötz. 2021. \
+Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data. \
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5, 3, Article 111 (Sept 2021), 32 pages. \
+DOI:https://doi.org/10.1145/3478096
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZN41C_fOdmk/1.jpg)](https://www.youtube.com/watch?v=ZN41C_fOdmk)
 
 ## Dataset
@@ -36,3 +41,6 @@ The following downloaded dataset includes the same content as explained in locom
 Additionally, the dataset includes the virtual IMU data for [Pamap2](https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring) dataset and [RealWorld (HAR)](https://sensor.informatik.uni-mannheim.de/#dataset_realworld).
 
 [Download](https://www.dropbox.com/s/t87pjaignz0gamo/complex.tar.gz?dl=0)
+
+### Gym Exercise 
+Coming soon ...
