@@ -54,10 +54,10 @@ Additionally, the dataset includes the virtual IMU data for [Pamap2](https://arc
 
 The two datasets include videos queried from youtube for 13 dumbbell activities in the experiment. \
 One datset is used for supervised learning with manually annotated exercise segment. \
-The other dataset is used for weakly supervised learning by using the search query keyword as target label. \
+The other dataset is used for weakly supervised learning by using the search query keyword as target label. 
 
 Labeled Dataset \
-[Video Links](https://www.dropbox.com/s/i0yj4weucgnhsv6/annotated_video.json?dl=0) \
+[Video Links](https://www.dropbox.com/s/i0yj4weucgnhsv6/annotated_video.json?dl=0) 
 
 UnLabeled Dataset \
 [Video Links](https://www.dropbox.com/s/kbg9d2tm3s8ibil/weakly_labeled_video.json?dl=0)
