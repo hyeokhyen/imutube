@@ -4,12 +4,20 @@ IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Hu
 Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 3, Article 87 (September 2020), 29 pages. \
 DOI:https://doi.org/10.1145/3411841
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZN41C_fOdmk/1.jpg)](https://www.youtube.com/watch?v=ZN41C_fOdmk)
+
 Hyeokhyen Kwon, Bingyao Wang, Gregory D. Abowd, and Thomas Plötz. 2021. \
 Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data. \
 Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5, 3, Article 111 (Sept 2021), 32 pages. \
 DOI:https://doi.org/10.1145/3478096
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZN41C_fOdmk/1.jpg)](https://www.youtube.com/watch?v=ZN41C_fOdmk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cajum1dbRQY/2.jpg)](https://youtu.be/cajum1dbRQY)
+
+## Softward Licensing
+
+The source code of this project is not publicly distributable.
+But, you can get the license from the Georgia Tech License office!
+Please consult [here](https://licensing.research.gatech.edu/technology/imutube-converting-videos-human-activity-virtual-imu-data-streams)!
 
 ## Dataset
 ### Locomotion activities
@@ -43,4 +51,6 @@ Additionally, the dataset includes the virtual IMU data for [Pamap2](https://arc
 [Download](https://www.dropbox.com/s/t87pjaignz0gamo/complex.tar.gz?dl=0)
 
 ### Gym Exercise 
+
+Labeled 
 Coming soon ...
