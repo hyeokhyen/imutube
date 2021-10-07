@@ -60,7 +60,8 @@ Labeled Dataset \
 [Video Links](https://www.dropbox.com/s/i0yj4weucgnhsv6/annotated_video.json?dl=0) 
 
 UnLabeled Dataset \
-[Video Links](https://www.dropbox.com/s/kbg9d2tm3s8ibil/weakly_labeled_video.json?dl=0)
+[Video Links](https://www.dropbox.com/s/kbg9d2tm3s8ibil/weakly_labeled_video.json?dl=0) \
+[Sensor Links](https://www.dropbox.com/s/q6ftesrgjwdz6af/weak.npz?dl=0)
 
 Labels: \
 0: 'One-Arm Dumbbell Row', \
