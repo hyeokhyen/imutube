@@ -62,17 +62,17 @@ Labeled Dataset \
 UnLabeled Dataset \
 [Video Links](https://www.dropbox.com/s/kbg9d2tm3s8ibil/weakly_labeled_video.json?dl=0)
 
-Labels:
-0: 'One-Arm Dumbbell Row',
-1: 'Incline Dumbbell Flyes',
-2: 'Incline Dumbbell Press',
-3: 'Dumbbell Flyes',
-4: 'Tricep Dumbbell Kickback',
-5: 'Dumbbell Alternate Bicep Curl',
-6: 'Incline Hammer Curl',
-7: 'Concentration Curl',
-8: 'Hammer Curl',
-9: 'Side Lateral Raise',
-10: 'Front Dumbbell Raise',
-11: 'Seated Dumbbell Shoulder Press',
+Labels: \
+0: 'One-Arm Dumbbell Row', \
+1: 'Incline Dumbbell Flyes', \
+2: 'Incline Dumbbell Press', \
+3: 'Dumbbell Flyes', \
+4: 'Tricep Dumbbell Kickback', \
+5: 'Dumbbell Alternate Bicep Curl', \
+6: 'Incline Hammer Curl', \
+7: 'Concentration Curl', \
+8: 'Hammer Curl', \
+9: 'Side Lateral Raise', \
+10: 'Front Dumbbell Raise', \
+11: 'Seated Dumbbell Shoulder Press', \
 12: 'Lying Rear Delt Raise'
