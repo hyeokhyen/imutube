@@ -15,9 +15,9 @@ DOI:https://doi.org/10.1145/3478096
 
 ## Softward Licensing
 
-The source code of this project is not publicly distributable. \
-But, you can get the license from the Georgia Tech License office! \
-Please consult [here](https://licensing.research.gatech.edu/technology/imutube-converting-videos-human-activity-virtual-imu-data-streams)!
+For the source code of this project, please consult Georgia Tech License office! \
+They normally license techonology to other universities for free for internal R&D only.
+Please check [here](https://licensing.research.gatech.edu/technology/imutube-converting-videos-human-activity-virtual-imu-data-streams)!
 
 ## Dataset
 ### Locomotion activities
