@@ -16,7 +16,7 @@ DOI:https://doi.org/10.1145/3478096
 ## Softward Licensing
 
 For the source code of this project, please consult Georgia Tech License office! \
-They normally license techonology to other universities for free for internal R&D only.
+They normally license techonology to other universities for free for internal R&D only. \
 Please check [here](https://licensing.research.gatech.edu/technology/imutube-converting-videos-human-activity-virtual-imu-data-streams)!
 
 ## Dataset
