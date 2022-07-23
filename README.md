@@ -18,7 +18,7 @@ Kwon, Hyeokhyen, Gregory D. Abowd, and Thomas Plötz. 2021. \
 Sensors 21, no. 24: 8337. \
 https://doi.org/10.3390/s21248337
 
-![image](https://github.com/hyeokhyen/imutube/blob/main/overall.png?raw=true | width=100)
+![](https://github.com/hyeokhyen/imutube/blob/main/overall.png?raw=true | width=100)
 
 ## Softward Licensing
 
