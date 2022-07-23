@@ -13,6 +13,11 @@ DOI:https://doi.org/10.1145/3478096
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cajum1dbRQY/2.jpg)](https://youtu.be/cajum1dbRQY)
 
+Kwon, Hyeokhyen, Gregory D. Abowd, and Thomas Plötz. 2021. \
+"Complex Deep Neural Networks from Large Scale Virtual IMU Data for Effective Human Activity Recognition Using Wearables" \
+Sensors 21, no. 24: 8337. \
+https://doi.org/10.3390/s21248337
+
 ## Softward Licensing
 
 For the source code of this project, please consult Georgia Tech License office! \
