@@ -26,6 +26,7 @@ For the source code of this project, please consult Georgia Tech License office!
 They normally license techonology to other universities for free for internal R&D only. \
 Please check [here](https://licensing.research.gatech.edu/technology/imutube-converting-videos-human-activity-virtual-imu-data-streams)!
 
+<!--
 ## Dataset
 ### Locomotion activities
 The video sources are from [RealWorld (HAR)](https://sensor.informatik.uni-mannheim.de/#dataset_realworld), which include 15 Subjects and eight activity classes.\
@@ -84,3 +85,4 @@ Labels: \
 10: 'Front Dumbbell Raise', \
 11: 'Seated Dumbbell Shoulder Press', \
 12: 'Lying Rear Delt Raise'
+ -->
